@@ -66,8 +66,8 @@ use user interface and authenticated logins.
 
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/79393700/167407066-47d685d6-1339-445f-84fc-b2cb89860bbf.png)
-Real-time weather monitoring
+### Real-time weather monitoring
 ![image](https://user-images.githubusercontent.com/79393700/167407113-fcd748bd-8a00-4184-bb45-5e5f09d79a7e.png)
-Prediction:
+### Prediction:
 ![image](https://user-images.githubusercontent.com/79393700/167407195-b4e9fe92-13be-4a74-b9f9-0db75d05377e.png)
 
