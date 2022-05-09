@@ -17,7 +17,7 @@ conveniently.
 The project aims at tackling problems of the agriculture sector with the efficient use of modern 
 scientific methods, thus increasing the GDP of the country.
 
-# REQUIREMENTS SPECIFICATION
+# REQUIREMENTS:
 ## HARDWARE REQUIREMENTS
 The proposed used consists of the following hardware components:
 1. Arduino Uno
